@@ -1,0 +1,5 @@
+/microsoft/static
+/com/adobe
+/com/msn/api
+/net/apple-dns/mask
+/net/fbcdn
